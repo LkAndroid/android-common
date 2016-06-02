@@ -108,5 +108,3 @@ compile 'cn.trinea.android.common:trinea-android-common:4.2.15'
     See the License for the specific language governing permissions and
     limitations under the License.
 
-test
-
